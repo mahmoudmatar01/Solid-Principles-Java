@@ -8,7 +8,6 @@ This repository provides an explanation of the Dependency Inversion Principle (D
 2. [DIP in Java](#dip-in-java)
 3. [Example](#example)
 4. [Best Practices](#best-practices)
-5. [Contributing](#contributing)
 
 ## Dependency Inversion Principle Overview
 
@@ -43,7 +42,5 @@ Here are some best practices to follow when applying DIP in Java:
 2. **Use Dependency Injection:** Inject the implementations of abstractions into the high-level modules, typically using constructor or setter injection.
 3. **Programming to Interfaces:** High-level modules should program to abstractions, not concrete implementations.
 
-## Contributing
 
-If you would like to contribute to this repository by adding more examples, improving documentation, or suggesting best practices related to DIP in Java, please follow our [contribution guidelines](CONTRIBUTING.md).
 
