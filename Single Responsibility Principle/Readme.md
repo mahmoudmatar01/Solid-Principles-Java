@@ -8,7 +8,6 @@ This repository provides an explanation of the Single Responsibility Principle (
 2. [SRP in Java](#srp-in-java)
 3. [Example](#example)
 4. [Best Practices](#best-practices)
-5. [Contributing](#contributing)
 
 ## Single Responsibility Principle Overview
 
@@ -43,8 +42,6 @@ Here are some best practices to follow when applying SRP in Java:
 3. **Refactor as Needed:** If a class becomes too complex or starts handling multiple responsibilities, consider refactoring it into smaller, more focused classes.
 4. **Unit Testing:** Write unit tests to ensure that each class behaves correctly in isolation.
 
-## Contributing
 
-If you would like to contribute to this repository by adding more examples, improving documentation, or suggesting best practices related to SRP in Java, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 
