@@ -11,7 +11,6 @@ This repository provides examples and explanations of the SOLID principles using
 5. [Interface Segregation Principle (ISP)](#interface-segregation-principle-isp)
 6. [Dependency Inversion Principle (DIP)](#dependency-inversion-principle-dip)
 7. [Examples](#examples)
-8. [Contributing](#contributing)
 
 ## SOLID Principles Overview
 
@@ -27,31 +26,26 @@ SOLID is a set of five design principles that promote building maintainable and 
 
 The SRP is all about making sure that a class has only one reason to change. This principle helps in keeping classes focused and makes them easier to maintain.
 
-[Learn more](srp.md)
 
 ## Open-Closed Principle (OCP)
 
 The OCP suggests that software entities should be open for extension but closed for modification. This means that you should be able to add new functionality without changing existing code.
 
-[Learn more](ocp.md)
 
 ## Liskov Substitution Principle (LSP)
 
 The LSP states that subtypes must be substitutable for their base types without altering the correctness of the program. In other words, if a class is a subtype of another class, it should be able to replace its parent class without causing issues.
 
-[Learn more](lsp.md)
 
 ## Interface Segregation Principle (ISP)
 
 The ISP advises that clients should not be forced to depend on interfaces they do not use. It's about creating smaller, more focused interfaces for classes.
 
-[Learn more](isp.md)
 
 ## Dependency Inversion Principle (DIP)
 
 The DIP states that high-level modules should not depend on low-level modules. Both should depend on abstractions. This principle promotes the use of interfaces and dependency injection to decouple classes.
 
-[Learn more](dip.md)
 
 ## Examples
 
