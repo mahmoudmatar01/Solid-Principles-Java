@@ -8,7 +8,6 @@ This repository provides an explanation of the Liskov Substitution Principle (LS
 2. [LSP in Java](#lsp-in-java)
 3. [Example](#example)
 4. [Best Practices](#best-practices)
-5. [Contributing](#contributing)
 
 ## Liskov Substitution Principle Overview
 
@@ -42,7 +41,5 @@ Here are some best practices to follow when applying LSP in Java:
 2. **Override with Caution:** If you override methods in derived classes, make sure you do not violate the expected behavior of the base class methods.
 3. **Avoid Code Duplication:** Reuse code and behavior from the base class in derived classes to maintain consistency.
 
-## Contributing
 
-If you would like to contribute to this repository by adding more examples, improving documentation, or suggesting best practices related to LSP in Java, please follow our [contribution guidelines](CONTRIBUTING.md).
 
