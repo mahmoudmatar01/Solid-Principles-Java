@@ -8,7 +8,6 @@ This repository provides an explanation of the Open/Closed Principle (OCP) and d
 2. [OCP in Java](#ocp-in-java)
 3. [Example](#example)
 4. [Best Practices](#best-practices)
-5. [Contributing](#contributing)
 
 ## Open/Closed Principle Overview
 
@@ -41,8 +40,6 @@ Here are some best practices to follow when applying OCP in Java:
 3. **Implement Strategies:** Implement new functionality as separate classes that adhere to the defined abstractions.
 4. **Dependency Injection:** Use dependency injection to inject strategies into the parts of your system that need them.
 
-## Contributing
 
-If you would like to contribute to this repository by adding more examples, improving documentation, or suggesting best practices related to OCP in Java, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 
