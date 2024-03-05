@@ -10,7 +10,6 @@ This repository provides examples and explanations of the SOLID principles using
 4. [Liskov Substitution Principle (LSP)](#liskov-substitution-principle-lsp)
 5. [Interface Segregation Principle (ISP)](#interface-segregation-principle-isp)
 6. [Dependency Inversion Principle (DIP)](#dependency-inversion-principle-dip)
-7. [Examples](#examples)
 
 ## SOLID Principles Overview
 
@@ -47,12 +46,5 @@ The ISP advises that clients should not be forced to depend on interfaces they d
 The DIP states that high-level modules should not depend on low-level modules. Both should depend on abstractions. This principle promotes the use of interfaces and dependency injection to decouple classes.
 
 
-## Examples
-
-In this repository, you will find Java code examples for each SOLID principle. Each example includes code snippets and explanations to help you understand how to apply these principles in practice.
-
-## Contributing
-
-If you would like to contribute to this repository by adding more examples or improving existing content, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 
